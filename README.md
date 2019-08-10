@@ -1,4 +1,6 @@
-# Tindev OmniStack by RocketSeat
+#  OmniStack by [@Rocketseat][rocketseat] ![rocketlogo][rocketlogo]
+
+![applogo][applogo]
 
 > Backend
 
@@ -29,3 +31,8 @@ yarn react-native run-android
 $1 react-native start
 $2 react-native run-android
 ```
+
+
+[rocketseat]: https://github.com/rocketseat
+[rocketlogo]: https://avatars0.githubusercontent.com/u/28929274?s=50&v=4
+[applogo]: /week-8-frontend/assets-mobile/logo@3x.png
